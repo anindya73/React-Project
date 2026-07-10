@@ -8,7 +8,7 @@ function App() {
   const [color, setColor] = useState("olive");
   function changeColor(color) {
     setColor(color);
-  }sjdjsb
+  }
   return (
     <div
       className="w-full h-screen duration-200"
